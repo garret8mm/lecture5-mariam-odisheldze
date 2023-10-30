@@ -1,68 +1,64 @@
+.container{
+  margin: 0px auto;
+width: 1289px;
+}
+
 .li4{
+  font-family: 'Roboto', sans-serif;
   color: #30CBC2;
-font-family: Inter;
 font-size: 48px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
 display: inline-block;
-margin-bottom: 20px;
-margin-left:40px;
-width: 223px;
-height: 58px;
-padding: 10px 10px 0px 10px;
-vertical-align: super;
+vertical-align: middle;
+margin-top: 45px;
+margin-right: 66px;
 }
 
-
 .li1{
-  margin-bottom: 20px;
-margin-left:40px;
- display: inline-block;
-width: 115px;
-height: 34px;
-font-family: FiraGO;
+  font-family: "BPG Ingiri", sans-serif;
+  color: #4E6FAE;
 font-size: 26px;
+font-style: normal;
 font-weight: 700;
-line-height: 31px;
-letter-spacing: 0em;
-text-align: left;
-color:#4E6FAE;
-vertical-align: super;}
+line-height: normal;
+display: inline-block;
+vertical-align: middle;
+margin-top: 40px;
+margin-right: 66px;
+
+}
 
 .li2{
-  margin-bottom: 20px;
-margin-left: 40px;
-display: inline-block;
-width: 115px;
-height: 34px;
-font-family: FiraGO;
+ font-family: "BPG Ingiri", sans-serif;
+ color: #8D81FF;
 font-size: 26px;
+font-style: normal;
 font-weight: 700;
-line-height: 31px;
-letter-spacing: 0em;
-text-align: left;
-color:#8D81FF;
-vertical-align: super;
+line-height: normal;
+display: inline-block;
+vertical-align: middle;
+margin-top: 40px;
+margin-right: 66px;
+
 }
 
 .li3{
-   margin-left: 20px;
-  display: inline-block;
-width: 115px;
-height: 34px;
-font-family: FiraGO;
+ font-family: "BPG Ingiri", sans-serif;
+color: #8D81FF;
 font-size: 26px;
+font-style: normal;
 font-weight: 700;
-line-height: 31px;
-letter-spacing: 0em;
-text-align: left;
-color:#8D81FF;
-vertical-align: super;
+line-height: normal;
+display: inline-block;
+vertical-align: middle;
+margin-top:40px;
+margin-right: 350px;
+
 }
 
 .div1{
-  vertical-align: text-top;
   background: #5012D5;
  width: 50px;
 height: 50px;
@@ -72,80 +68,102 @@ font-size: 24px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-margin: 60px 40px 10px; 
-padding: 10px
+padding-top: 10px;
+padding-left: 10PX;
+margin-top: 60PX;
+margin-bottom:10PX ;
+}
+
+.div0{
+  background: #5012D5;
+ width: 50px;
+height: 50px;
+color: #84FF81;
+font-family: Helvetica;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 10px;
+padding-left: 10PX;
+margin-top: 150PX;
+margin-bottom:10PX ;
 }
 
 h2{
   width: 70px;
 height: 34px;
 color: #8D81FF;
-font-family: FiraGO;
-font-size: 24px;
+font-family: "ALKBasri-Light", sans-serif;
+font-size: 25px;
 font-style: normal;
-font-weight: 700;
+font-weight: 400;
 line-height: normal;
-padding: 0px 40px;
+margin-bottom: 10px;
 }
 
 h3{
-  width: 578px;
+font-family: "ArchyEDT-Bold", sans-serif;
+ width: 578px;
 height: 34px;
 color: #4E6FAE;
-font-family: FiraGO;
 font-size: 20px;
-font-style: normal;
-font-weight: 1000;
+font-weight: 900;
 line-height: normal;
-padding: 0px 40px;
+margin-bottom: -25px;
 }
 
 .img2{
   width: 447px;
 height: 280px;
 display: inline-block;
-margin-left: 40px;
-}
-
-.img{
-   width: 447px;
-height: 280px;
-margin-left: 40px;
+margin-bottom: 20px;
 }
 
 .div2{
-  width: 778px;
+  width:725px;
 height: 281px;
 color: #4E6FAE;
-font-family: FiraGO;
+font-family: "ArchyEDT-Bold", sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 700;
 line-height:unset;
 display: inline-block;
-margin: 40px 50px;
-padding: 20px 10px;
+margin: 30px 50px  44px;
+padding: 20px 0px;
 vertical-align: text-bottom;
 }
+
+h4{
+  font-family: "ArchyEDT-Bold", sans-serif;
+ width: 578px;
+height: 34px;
+color: #4E6FAE;
+font-size: 20px;
+font-weight: 900;
+line-height: normal;
+margin-bottom: 25px;
+}
+
 
 .p1{
   width: 1021px;
 height: 148px;
 color: #4E6FAE;
-font-family: FiraGO;
+font-family: "ArchyEDT-Bold", sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 700;
 line-height: unset;
-margin: 5px 30px;
-padding: 20px 10px;
+margin-top: 32px;
 }
 
 .i1{
   display: inline-block;
  width: 50px;
  height: 50px;
- margin: 66px 20px 66px 40px;
+ margin: 66px 20px 66px 0px;
 }
 
 .i2{
@@ -162,7 +180,4 @@ padding: 20px 10px;
   margin: 66px 20px;
 }
 
-.container{
-margin: 0px auto;
-width: 1289px;
-}
+
