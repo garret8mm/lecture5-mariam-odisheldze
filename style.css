@@ -17,7 +17,7 @@ margin-right: 66px;
 }
 
 .li1{
-  font-family: "BPG Ingiri", sans-serif;
+  font-family: 'FiraGO', sans-serif;
   color: #4E6FAE;
 font-size: 26px;
 font-style: normal;
@@ -31,7 +31,7 @@ margin-right: 66px;
 }
 
 .li2{
- font-family: "BPG Ingiri", sans-serif;
+ font-family: 'FiraGO', sans-serif;
  color: #8D81FF;
 font-size: 26px;
 font-style: normal;
@@ -45,7 +45,7 @@ margin-right: 66px;
 }
 
 .li3{
- font-family: "BPG Ingiri", sans-serif;
+ font-family: 'FiraGO', sans-serif;
 color: #8D81FF;
 font-size: 26px;
 font-style: normal;
@@ -94,8 +94,8 @@ h2{
   width: 70px;
 height: 34px;
 color: #8D81FF;
-font-family: "ALKBasri-Light", sans-serif;
-font-size: 25px;
+font-family: 'FiraGO', sans-serif;
+font-size: 24px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
@@ -103,12 +103,12 @@ margin-bottom: 10px;
 }
 
 h3{
-font-family: "ArchyEDT-Bold", sans-serif;
+ font-family: 'FiraGO', sans-serif;
  width: 578px;
 height: 34px;
 color: #4E6FAE;
 font-size: 20px;
-font-weight: 900;
+font-weight: 700;
 line-height: normal;
 margin-bottom: -25px;
 }
@@ -124,10 +124,10 @@ margin-bottom: 20px;
   width:725px;
 height: 281px;
 color: #4E6FAE;
-font-family: "ArchyEDT-Bold", sans-serif;
+font-family: 'FiraGO', sans-serif;
 font-size: 16px;
 font-style: normal;
-font-weight: 700;
+font-weight: 400;
 line-height:unset;
 display: inline-block;
 margin: 30px 50px  44px;
@@ -136,12 +136,12 @@ vertical-align: text-bottom;
 }
 
 h4{
-  font-family: "ArchyEDT-Bold", sans-serif;
+  font-family: 'FiraGO', sans-serif;
  width: 578px;
 height: 34px;
 color: #4E6FAE;
 font-size: 20px;
-font-weight: 900;
+font-weight: 700;
 line-height: normal;
 margin-bottom: 25px;
 }
@@ -151,10 +151,10 @@ margin-bottom: 25px;
   width: 1021px;
 height: 148px;
 color: #4E6FAE;
-font-family: "ArchyEDT-Bold", sans-serif;
+font-family: 'FiraGO', sans-serif;
 font-size: 16px;
 font-style: normal;
-font-weight: 700;
+font-weight: 400;
 line-height: unset;
 margin-top: 32px;
 }
